@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 Suryakiran M. George, is a highly proficient and motivated Systems & Controls Engineer with significant experience in design and developing of embedded control systems, particularly in the Automotive & Aerospace industries.
 
@@ -31,4 +31,4 @@ Suryakiran M. George, is a highly proficient and motivated Systems & Controls En
 
 
 📙 Suryakiran holds a Master's in Electrical Engineering (Robotics & Controls) from the University of Southern California and is currently pursuing a part-time PhD in Automotive Controls from Oakland University, Michigan, with a focus on Electric Vehicle Technologies.
-
+-->
